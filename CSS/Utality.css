@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    margin: auto;
+}
+:root{
+    --borderstyle: solid;
+    --borderthickness: 1px;
+    --bordercolor: rgba(0, 0, 0, 0.1);
+    
+    /* --borderStyle:solid;
+    --BorderColor:black;
+    --borderthickness:1px;    */
+
+    --linkColor:black;
+    --linkcolorhover:red;
+    /* --linkColorSelection:rgba(59, 183, 126, 1); */
+    --linksFonts:"Inter", sans-serif;
+    --linksFontsWeight: 400;
+    --linksFontsStyle: normal;
+    --lnksize:.8em;
+
+}
